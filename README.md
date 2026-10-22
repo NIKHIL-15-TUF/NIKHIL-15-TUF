@@ -113,7 +113,7 @@ Exploring personalized recommendation systems inspired by platforms such as Netf
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
   </a>
   <a href="https://auth.geeksforgeeks.org/user/nikhil1585/profile" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/geeksforgeeks/geeksforgeeks-original.svg" alt="GeeksforGeeks" height="30" width="40"/>
+    <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="GeeksforGeeks" height="30" width="40"/>
   </a>
 </p>
 
